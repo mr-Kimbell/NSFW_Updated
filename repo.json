@@ -1,8 +1,8 @@
 {
-    "name": "NSFW Providers",
+    "name": "NSFW Providers2",
     "description": "For the coomers and degenerates",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/plugins.json"
+        "https://raw.githubusercontent.com/mr-Kimbell/NSFW_Updated/builds/plugins.json"
     ]
 }

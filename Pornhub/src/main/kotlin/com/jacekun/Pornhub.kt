@@ -11,7 +11,7 @@ import org.jsoup.nodes.Element
 class Pornhub : MainAPI() {
     private val globalTvType = TvType.NSFW
 
-    override var mainUrl = "https://www.pornhub.com"
+    override var mainUrl = "https://www.pornhub.org"
     override var name = "Pornhub"
     override val hasMainPage = true
     override val hasChromecastSupport = true

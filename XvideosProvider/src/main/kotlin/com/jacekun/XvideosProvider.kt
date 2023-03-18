@@ -11,7 +11,7 @@ class XvideosProvider : MainAPI() {
     private val globalTvType = TvType.NSFW
     private val Dev = "DevDebug"
 
-    override var mainUrl = "https://www.xvideos.com"
+    override var mainUrl = "https://www.xvideos5.com"
     override var name = "Xvideos"
     override val hasMainPage = true
     override val hasChromecastSupport = true
